@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 Cyclopeptide Scoring Problem", "3.2 Cyclopeptide Scoring Problem\3.2 Cyclopeptide Scoring Problem.csproj", "{DCA1321F-35B7-4997-8E78-507C678FC9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA1321F-35B7-4997-8E78-507C678FC9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA1321F-35B7-4997-8E78-507C678FC9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA1321F-35B7-4997-8E78-507C678FC9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA1321F-35B7-4997-8E78-507C678FC9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1D3E6F2-5DAE-4B8D-AE01-7351BB20E0FC}
+	EndGlobalSection
+EndGlobal
